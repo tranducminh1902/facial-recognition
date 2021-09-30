@@ -1,0 +1,9 @@
+argparse
+matplotlib
+numpy
+pandas
+tensorflow_hub
+streamlit
+opencv-contrib-python
+opencv-python
+pillow
