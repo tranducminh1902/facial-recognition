@@ -10,10 +10,12 @@ Locate and recognize human face using YOLO and OpenCV
 
 • To run detection run:
 
-python face_recog_app.py
+```python face_recog_app.py```
+
 • To collect data images by capturing from webcam, create a folder name data in the model directory and run:
 
-python data_creator.py
+```python data_creator.py```
+
 Captured images will be saved in the data folder with the target name as its directory.
 
 • To train and export classifier, use the model_1.h5
