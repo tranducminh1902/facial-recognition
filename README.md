@@ -37,6 +37,8 @@ Streamlit was used to deploy the file: [face_recog_app.py](https://github.com/tr
 - Load trained CNN model for face prediction
 - Create bounding box around each face detected and show name with confidence level (in probability)
 
+![SmartSelect_20211001-120313_Gallery](https://user-images.githubusercontent.com/86507088/135598198-c13c34f0-4f59-4e69-8463-885df7e48384.gif)
+
 ## Contributions and References:
 Contributions:
 - Minh Tran: https://github.com/tranducminh1902
